@@ -1,5 +1,5 @@
 # CoffeeManagement
-Quản lý quán cà phê Winfrom CSharp C#
+  Quản lý quán cà phê Winfrom CSharp C#
   1. From login
   ![image](https://user-images.githubusercontent.com/107678223/209601895-42e9d5f1-6c83-4f52-a639-9c860911a488.png)
   2. From chính
@@ -14,8 +14,3 @@ Quản lý quán cà phê Winfrom CSharp C#
   Quản trị
   </div>
   6. From quản lý món ăn
-  ![image](https://user-images.githubusercontent.com/107678223/209602280-70ea7be3-5fcd-43b0-8edc-2eebcf10ece0.png)
-  7. From nhóm món ăn
-  ![image](https://user-images.githubusercontent.com/107678223/209602343-27e6279b-cfc3-479f-8285-c0acfff3f44e.png)
-  8. From thể loại món ăn
-  ![image](https://user-images.githubusercontent.com/107678223/209602386-4368009b-4aff-4cce-9afe-263458a6b801.png)
