@@ -390,6 +390,8 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Data\FileSricpt.sql" />
+    <Content Include="Data\SQLQuery.sql" />
     <Content Include="HoaDon.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>HoaDon.edmx</DependentUpon>
