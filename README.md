@@ -2,6 +2,9 @@
   #Quản lý quán cà phê Winfrom CSharp C#
   1. From login
   ![image](https://user-images.githubusercontent.com/107678223/209601895-42e9d5f1-6c83-4f52-a639-9c860911a488.png)
+  <div align="center">
+    <h2>Nhân Viên</h2>
+  </div>
   2. From chính
   ![image](https://user-images.githubusercontent.com/107678223/209601988-674092c9-1549-4c9c-85e9-a913b6143982.png)
   3. From tác vụ
