@@ -1,6 +1,6 @@
   # CoffeeManagement
   #Quản lý quán cà phê Winfrom CSharp C#
-
+  __I. From__
   
   1. From login
   
@@ -20,7 +20,7 @@
   2. From chính
   ![image](https://user-images.githubusercontent.com/107678223/209601988-674092c9-1549-4c9c-85e9-a913b6143982.png)
   3. From tác vụ
-  ![image](https://user-images.githubusercontent.com/107678223/209602049-1dde35a0-cbe5-4a4a-b191-4bd17865098b.png)
+  ![image](https://user-images.githubusercontent.com/107678223/210324354-e9132fdd-789d-4b3d-94c3-6bd2d1a68d6c.png)
   4. From profile
   ![image](https://user-images.githubusercontent.com/107678223/209602090-9c60f173-4883-439c-aae2-741dff65597d.png)
   5. Reporting hóa đơn
@@ -49,10 +49,15 @@
   
   
   
-  I. Phần mềm cài đặt
+  __II. Phần mềm cài đặt__
   -	PM Visual Studio 2019.
   -	PM DevExpress Components for .Net 21.6.2
   -	PM SQL Server 2019.
   -	PM Crystal Report 
+  __III. Hướng dẫn mở Source__
+    1. Kết nối:
+      - Để cấu hình kết nối, các bạn vào tầng project  "DAO"  → Tìm class "DataProvider.cs"  sau đó tìm dòng: 
+private string connectionString = @"Data Source=.\SQLEXPRESS;Initial Catalog=CoffeeManagement;Integrated Security=True"; 
+→ Thay đổi chuỗi kết nối đến Sqlserver cho phù hợp với máy tính của bạn hoặc có thể sử dụng chuổi kết nối Database online của em đã deploy trên internet :private string connectionString=@"DataSource=SQL5109.site4now.net,1433;InitialCatalog=db_a91e51_nhamngoo;UserId=db_a91e51_nhamngoo_admin;Password=02092002Aa;"
 
 
