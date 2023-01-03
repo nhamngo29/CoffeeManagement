@@ -53,11 +53,12 @@
   -	PM Visual Studio 2019.
   -	PM DevExpress Components for .Net 21.6.2
   -	PM SQL Server 2019.
-  -	PM Crystal Report 
+  -	PM Crystal Report  
   __III. Hướng dẫn mở Source__
     1. Kết nối:
       - Để cấu hình kết nối, các bạn vào tầng project  "DAO"  → Tìm class "DataProvider.cs"  sau đó tìm dòng: 
-private string connectionString = @"Data Source=.\SQLEXPRESS;Initial Catalog=CoffeeManagement;Integrated Security=True"; 
-→ Thay đổi chuỗi kết nối đến Sqlserver cho phù hợp với máy tính của bạn hoặc có thể sử dụng chuổi kết nối Database online của em đã deploy trên internet :private string connectionString=@"DataSource=SQL5109.site4now.net,1433;InitialCatalog=db_a91e51_nhamngoo;UserId=db_a91e51_nhamngoo_admin;Password=02092002Aa;"
+ private string connectionString = @"Data Source=.\SQLEXPRESS;Initial Catalog=CoffeeManagement;Integrated Security=True"; 
+ → Thay đổi chuỗi kết nối đến Sqlserver cho phù hợp với máy tính của bạn hoặc có thể sử dụng chuổi kết nối Database online của mình đã deploy trên internet
+ :private string connectionString=@"DataSource=SQL5109.site4now.net,1433;InitialCatalog=db_a91e51_nhamngoo;UserId=db_a91e51_nhamngoo_admin;Password=02092002Aa;"
 
 
