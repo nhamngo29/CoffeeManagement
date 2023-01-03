@@ -31,6 +31,28 @@
     **Quản trị viên**
   
 </div>
+
+  6. From quản lý món ăn/uống
+  ![image](https://user-images.githubusercontent.com/107678223/210323292-11c451cc-f7b7-4174-b272-08a979469a4e.png)
+  7. From quản lý loại thức ăn/uống
+  ![image](https://user-images.githubusercontent.com/107678223/210323390-6b2f1522-8bd3-4cf3-9d8d-17a2a25b2678.png)
+  8. From quản lý thể loại thức ăn/uống
+  ![image](https://user-images.githubusercontent.com/107678223/210323451-84cadc28-842e-42cd-975e-1173826b3d88.png)
+  9. From quản lý bàn
+  ![image](https://user-images.githubusercontent.com/107678223/210323498-7d81271d-3c89-45c0-b77e-0cb6dfa9bb7e.png)
+  10. From quản lý user đăng nhập
+  ![image](https://user-images.githubusercontent.com/107678223/210323565-17301276-1171-41ed-a367-21f619c49d89.png)
+  11. From quản lý mã giảm giá
+  ![image](https://user-images.githubusercontent.com/107678223/210323622-bbcbb1a0-357e-4d47-a58a-7e25f9d5322a.png)
+  12. From quản lý doanh thu theo ngày tháng
+  ![image](https://user-images.githubusercontent.com/107678223/210323721-86ccb034-fddb-4656-8429-a1b548635c81.png)
   
   
-  6. From quản lý món ăn
+  
+  I. Phần mềm cài đặt
+  -	PM Visual Studio 2019.
+  -	PM DevExpress Components for .Net 21.6.2
+  -	PM SQL Server 2019.
+  -	PM Crystal Report 
+
+
