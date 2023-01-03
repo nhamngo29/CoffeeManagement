@@ -55,7 +55,7 @@
   -	PM SQL Server 2019.
   -	PM Crystal Report  
  
-  __III. Hướng dẫn mở Source__
+  __III. Hướng dẫn mở Source__  
     1. Kết nối:
     
       - Để cấu hình kết nối, các bạn vào tầng project  "DAO"  → Tìm class "DataProvider.cs"  sau đó tìm dòng: private string connectionString = @" Data Source=.\SQLEXPRESS;Initial Catalog=CoffeeManagement;Integrated Security=True"; 
