@@ -12,7 +12,7 @@
 
 <div align="center">
 
-    ** Nhân Viên **
+    **Nhân Viên**
   
 </div>
   
@@ -26,7 +26,11 @@
   5. Reporting hóa đơn
   ![image](https://user-images.githubusercontent.com/107678223/209602245-01bff54a-540f-474c-a774-085e6f89b640.png)
   
-  <h2>Quản trị</h2>
-  </div>
+<div align="center">
+
+    **Quản trị viên**
+  
+</div>
+  
   
   6. From quản lý món ăn
